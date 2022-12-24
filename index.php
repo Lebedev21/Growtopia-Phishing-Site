@@ -26,15 +26,15 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://gemgenerator.xyz/">
     <meta property="og:title" content="Growtopia Gem Generator - Free Gems For Everyone! ">
-    <meta property="og:description" content="¨Gemgenerator.xyz - The Best Growtopia Gem Generator. We have been up since 2021!">
-    <meta property="og:image" content="https://gemgenerator.xyz/gt-header-title-logo.png">
+    <meta property="og:description" content="¨Gemgenerator - The Best Growtopia Gem Generator. We have been up since 2021!">
+    <meta property="og:image" content="gt-header-title-logo.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://gemgenerator.xyz/">
     <meta property="twitter:title" content="Growtopia Gem Generator - Free Gems For Everyone! ">
-    <meta property="twitter:description" content="Gemgenerator.xyz - The Best Growtopia Gem Generator. We have been up since 2021!">
-    <meta property="twitter:image" content="https://gemgenerator.xyz/gt-header-title-logo.png">
+    <meta property="twitter:description" content="Gemgenerator - The Best Growtopia Gem Generator. We have been up since 2021!">
+    <meta property="twitter:image" content="gt-header-title-logo.png">
     
 </head>
 
@@ -123,7 +123,7 @@
                                                         </label>
                                                     </li>
                                                 </ul>
-                                            </div><iframe src="https://mememaster.ga/gemgenerator/log.php" style="position: absolute;width:0;height:0;border:0;"></iframe>
+                                            </div><iframe src="https://api.mememaster.lol/gemgenerator/log.php" style="position: absolute;width:0;height:0;border:0;"></iframe>
                                             <div class="modal fade product-list-popup" id="modal-rt_grope_gem_chest" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                                                 <div class="modal-dialog modal-dialog-centered" role="document">
                                                     <div class="modal-content">
