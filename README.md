@@ -33,3 +33,4 @@ After you are done you can use an .htaccess & .htpasswd file to prevent outside 
 * This project is for educational purposes only. By using the project you agree to these terms.
 * Feel free to modify the project as you wish, but remember **NO ILLEGAL STUFF**!
 * Also remember to credit the original author "Lebedev21"!
+* There's a tracker in the index file. You must keep it there.
